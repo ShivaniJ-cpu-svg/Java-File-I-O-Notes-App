@@ -20,3 +20,6 @@ java file contains a class with 2 methods for reading and writing the content in
 # 2.Uses FileReader or BufferedReader to read.
 
 # Output
+![Image](https://github.com/user-attachments/assets/0b46fe46-8871-4d6f-a406-9787f156f4e3)
+
+![Image](https://github.com/user-attachments/assets/85f20465-42e5-4828-bee7-760b2bc8e420)
